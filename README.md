@@ -42,5 +42,5 @@ if firstTimeProject:
 
 
 lokiaus.socials {
-  "twitter": "@lokiaus" 
+  "twitter": twitter.com/lokiaus 
 }
