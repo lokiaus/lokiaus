@@ -3,28 +3,18 @@ const user lokiaus
 lokiaus.name = "Loki"
 
 lokiaus.interests = [
-
   "Machine Learning",
-  
   "Web Development",
-
   "Game Development",
-
   "App Development
-
 ]
 
 
 lokiaus.currentlyLearning = [
-
   "Python",
-
   "HTML",
-
   "CSS",
-
   "JavaScript",
-
 ]
 
 
@@ -32,11 +22,8 @@ lokiaus.os = dualboot(win10, ubuntu)
 
 
 lokiaus.text-editor = [
-
   vscode,
-
   sublime-text
-
 ]
 
 
@@ -56,7 +43,5 @@ if firstTimeProject:
 
 
 lokiaus.links {
-
   "twitter": "twitter.com/lokiaus"
-
 }
