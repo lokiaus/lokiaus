@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @lokiaus
-- 👀 I’m interested in machine learning, web development and game development
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on first timers only projects
-- 📫 How to reach me: 
-        @lokiaus on twitter
+const user lokiaus
+lokiaus.name = "Loki"
 
-<!---
-lokiaus/lokiaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+lokiaus.interests = [
+    "Machine Learning",
+    "Web Development",
+    "Game Development",
+    "App Development"
+]
+
+lokiaus.currentlyLearning = [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+]
+
+lokiaus.os = dualboot(win10, ubuntu)
+
+lokiaus.text-editor = [
+    vscode,
+    sublime-text
+]
+
+lokiaus.projects = {
+    "Scissors Paper Rock": https://lokiaus.github.io/odin-rockpaperscissors/,
+    "Loki's Castle": https://lokiaus.github.io/lokis_castle/
+}
+
+if firstTimeProject:
+    lokiaus.collaborate()
+
+lokiaus.links {
+    "twitter": "twitter.com/lokiaus"
+}
