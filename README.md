@@ -6,7 +6,7 @@ lokiaus.interests = [
   "Machine Learning",
   "Web Development",
   "Game Development",
-  "App Development
+  "App Development"
 ]
 
 
