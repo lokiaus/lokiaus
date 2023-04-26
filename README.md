@@ -14,7 +14,7 @@ lokiaus.currentlyLearning = [
   "Python",
   "HTML",
   "CSS",
-  "JavaScript",
+  "JavaScript"
 ]
 
 
