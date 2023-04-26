@@ -1,62 +1,62 @@
-    const user lokiaus
+const user lokiaus
 
-    lokiaus.name = "Loki"
+lokiaus.name = "Loki"
 
-    lokiaus.interests = [
+lokiaus.interests = [
 
-        "Machine Learning",
+  "Machine Learning",
+  
+  "Web Development",
 
-        "Web Development",
+  "Game Development",
 
-        "Game Development",
+  "App Development
 
-        "App Development
-
-    ]
-
-
-    lokiaus.currentlyLearning = [
-
-        "Python",
-
-        "HTML",
-
-        "CSS",
-
-        "JavaScript",
-
-    ]
+]
 
 
-    lokiaus.os = dualboot(win10, ubuntu)
+lokiaus.currentlyLearning = [
+
+  "Python",
+
+  "HTML",
+
+  "CSS",
+
+  "JavaScript",
+
+]
 
 
-    lokiaus.text-editor = [
-
-        vscode,
-
-        sublime-text
-
-    ]
+lokiaus.os = dualboot(win10, ubuntu)
 
 
-    lokiaus.projects = {
+lokiaus.text-editor = [
 
-        "Scissors Paper Rock": https://lokiaus.github.io/odin-rockpaperscissors/,
+  vscode,
 
-        "Loki's Castle": https://lokiaus.github.io/lokis_castle/
+  sublime-text
 
-    }
-
-
-    if firstTimeProject:
-
-        lokiaus.collaborate()
+]
 
 
+lokiaus.projects = {
 
-    lokiaus.links {
+  "Scissors Paper Rock": https://lokiaus.github.io/odin-rockpaperscissors/,
 
-        "twitter": "twitter.com/lokiaus"
+  "Loki's Castle": https://lokiaus.github.io/lokis_castle/
 
-    }
+}
+
+
+if firstTimeProject:
+
+  lokiaus.collaborate()
+
+
+
+lokiaus.links {
+
+  "twitter": "twitter.com/lokiaus"
+
+}
