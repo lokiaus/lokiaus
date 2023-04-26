@@ -37,7 +37,6 @@ lokiaus.projects = {
 
 
 if firstTimeProject:
-
   lokiaus.collaborate()
 
 
