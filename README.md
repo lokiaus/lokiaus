@@ -1,46 +1,35 @@
-const user lokiaus
+# Loki
 
-lokiaus.name = "Loki"
+Welcome to my GitHub profile! I am a beginner programmer with a passion for computers and software. I live in Australia and use they/them pronouns.
 
-lokiaus.interests = [
-  "Machine Learning",
-  "Web Development",
-  "Game Development",
-  "App Development"
-]
+## About Me
+- **Languages**: Python, HTML, CSS, JavaScript
+- **Text Editors**: VSCode, Sublime Text
+- **Operating System**: Windows 10, Ubuntu
+- **Interests**: Machine Learning and Web, App and Game development
 
+## Projects
+### Scissors Paper Rock
+Scissors Paper Rock game against the computer. Demonstrates fundamental HTML, CSS and JavaScript skills.
 
-lokiaus.currentlyLearning = [
-  "Python",
-  "HTML",
-  "CSS",
-  "JavaScript"
-]
+[Live preview](https://lokiaus.github.io/odin-rockpaperscissors/)
 
+[Repository](https://github.com/lokiaus/odin-rockpaperscissors)
 
-lokiaus.os = dualboot(win10, ubuntu)
+### Loki's Castle
+Demonstration of a simple web layout.
 
+[Live preview](https://lokiaus.github.io/lokis_castle/)
 
-lokiaus.text-editor = [
-  vscode,
-  sublime-text
-]
+[Repository](https://github.com/lokiaus/lokis_castle)
 
+### Asgard
+My personal website.
 
-lokiaus.projects = {
+[Live preview](URL)
 
-  "Scissors Paper Rock": https://lokiaus.github.io/odin-rockpaperscissors/,
+[Repository](URL)
 
-  "Loki's Castle": https://lokiaus.github.io/lokis_castle/
+## Contact Me
 
-}
-
-
-if firstTimeProject:
-  lokiaus.collaborate()
-
-
-
-lokiaus.socials {
-  "twitter": https://twitter.com/lokiaus/
-}
+[Twitter](https://twitter.com/lokiaus/)
