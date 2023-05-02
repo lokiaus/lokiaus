@@ -26,9 +26,9 @@ Demonstration of a simple web layout.
 ### Asgard
 My personal website.
 
-[Live preview](URL)
+[Live preview](https://lokiaus.github.io/lokiaus/)
 
-[Repository](URL)
+[Repository](https://github.com/lokiaus/lokiaus)
 
 ## Contact Me
 
