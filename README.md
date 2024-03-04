@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I am a beginner programmer with a passion for comp
 
 ## About Me
 - **Languages**: Python, HTML, CSS, JavaScript
-- **Text Editors**: VSCode, Sublime Text
-- **Operating System**: Windows 10, Ubuntu
+- **Text Editors**: PyCharm, VSCode, Sublime Text
+- **Operating System**: Windows 10/11, Linux
 - **Interests**: Machine Learning and Web, App and Game development
 
 ## Projects
@@ -30,6 +30,3 @@ My personal website.
 
 [Repository](https://github.com/lokiaus/lokiaus)
 
-## Contact Me
-
-[Twitter](https://twitter.com/lokiaus/)
