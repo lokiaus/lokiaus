@@ -19,4 +19,4 @@ Scissors Paper Rock game against the computer. Demonstrates fundamental HTML, CS
 ### Terminal Pinger
 Python-based terminal application which displays network metrics. Demonstrates understanding of Python.
 
-[Repository]([https://github.com/lokiaus/terminal_pinger])
+[Repository](https://github.com/lokiaus/terminal_pinger)
