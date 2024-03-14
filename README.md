@@ -16,17 +16,7 @@ Scissors Paper Rock game against the computer. Demonstrates fundamental HTML, CS
 
 [Repository](https://github.com/lokiaus/odin-rockpaperscissors)
 
-### Loki's Castle
-Demonstration of a simple web layout.
+### Terminal Pinger
+Python-based terminal application which displays network metrics. Demonstrates understanding of Python.
 
-[Live preview](https://lokiaus.github.io/lokis_castle/)
-
-[Repository](https://github.com/lokiaus/lokis_castle)
-
-### Asgard
-My personal website.
-
-[Live preview](https://lokiaus.github.io/lokiaus/)
-
-[Repository](https://github.com/lokiaus/lokiaus)
-
+[Repository]([https://github.com/lokiaus/terminal_pinger])
